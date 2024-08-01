@@ -1,0 +1,3 @@
+[submodule "NetworkNode"]
+	path = NetworkNode
+	url = https://github.com/m-c-frank/esp8266-http-server
